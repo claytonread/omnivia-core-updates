@@ -1,5 +1,16 @@
 {
   "schema_version": "omnivia-core-update.v1",
   "channel": "stable",
-  "release": null
+  "release": {
+    "version": "0.1.0",
+    "release_url": "https://github.com/claytonread/omnivia-core/releases/tag/core-v0.1.0",
+    "packages": {
+      "omnivia-core": "0.1.0",
+      "omnivia-core-cli": "0.1.0",
+      "omnivia-core-client": "0.1.0",
+      "omnivia-core-mcp": "0.1.0",
+      "omnivia-core-runtime": "0.1.0"
+    },
+    "bundle_sha256": "sha256:e841cedd1f82746f44559a7813aa769fc4b78540716ea5e3bb5f75d15f3c957e"
+  }
 }
